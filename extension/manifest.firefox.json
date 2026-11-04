@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"OpenDownload Connector","version":"0.1.0","permissions":["contextMenus","storage"],"host_permissions":["http://127.0.0.1:17843/*"],"background":{"scripts":["background.js"]},"action":{"default_popup":"popup.html"},"browser_specific_settings":{"gecko":{"id":"opendownload@example.local","strict_min_version":"109.0"}}}
